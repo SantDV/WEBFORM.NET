@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
 </head>
 <body>
 
@@ -16,14 +17,15 @@
 
             <a href="#" class="active">Home</a>
             <a href="#">About</a>
-            <a href="#">Education</a>
-            <a href="#">Portfolio</a>
-            <a href="#">Contact</a>
+            <a href="#education">EDUCATION</a>
+            <a href="#portfolio">Portfolio</a>
+            <a href="#contact">Contact</a>
 
         </nav>
     </header>
 
     <section class="home">
+        
         <div class="home-content">
             <h1>Hi, I`m Santiago Viva</h1>
             <h3>Software Developer</h3>
@@ -32,7 +34,7 @@
             </p>
             <div class="btn-box">
                 <a href="#">Hire Me</a>
-                <a href="#">CONTACT</a>
+                <a href="#contact">CONTACT</a>
             </div>
         </div>
 
@@ -47,14 +49,94 @@
         </span>
     </section>
 
-    <div class="contact-container">
+    
 
+
+
+
+    <div class="education-page" id="education">
+
+        <div class="education-background">
+
+        </div>
+        <div class="box-container">
+
+            <h3>
+                Técnicatura superior en desarrollo de software.
+            </h3>
+            <h3>
+                PCAP: Programming Essentials in Python.
+            </h3>
+            <h3>    
+                Cisco Cyber Ops.
+            </h3>
+            <h3>
+                Cisco CCNA-3.
+            </h3>
+            <h3>
+                Cisco CCNA-2.
+            </h3>
+            <h3>
+                Cisco CCNA-1.
+            </h3>
+            <h3>
+                Técnico en electricidad domiciliaria.
+            </h3>
+            <h3>
+                Tecnico en reparacion de PC avanzado.
+            </h3>
+
+        </div>
+    </div>
+
+
+
+    <div class="portfolio-page" id="portfolio">
+
+        <div class="portfolio-background"></div>
+
+        <div class="ebox-container">
+
+            <div class="box" style="background: url('paso2023.PNG'); background-size: cover;">
+           
+            </div>
+
+            <div class="box"style="background: url('parking.PNG'); background-size: cover;">
+
+            </div>
+
+            <div class="box"style="background: url('calculadoraJava.PNG'); background-size: cover;">
+
+            </div>
+
+            <div class="box"style="background: url('delitosInformaticos.PNG'); background-size: cover;">
+
+            </div>
+
+            <div class="box"style="background: url('delitosInformaticosAPP.PNG'); background-size: cover;">
+
+            </div>
+
+            <div class="box"style="background: url('paso2023.PNG'); background-size: cover;">
+
+            </div>
+            
+        </div>
+    </div>
+
+
+
+    <div class="contact-container" id="contact">
+
+        <div class="background">
+
+        </div>
         <form action="">
             <h3>GET IN TOUCH</h3>
             <input type="text" id="name" placeholder="Su nombre">
             <input type="email" id="email" placeholder="Su email">
             <textarea name="" id="message" rows="10"></textarea>
-            <button type="submit">Enviar</button>
+            <button type="submit" onclick="enviar()">Enviar</button>
         </form>
 
     </div>
