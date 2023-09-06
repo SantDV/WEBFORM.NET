@@ -10,6 +10,18 @@ body{
     color: #ededed;
 }
 
+
+.box-photo{
+    position: absolute;
+    width: 35%;
+    height: 70vh;
+    left: 50%;
+    top: 20vh;
+    border: 2px solid white;
+    background: url('DSC_0592.JPG');
+    background-size: cover;
+}
+
 .header{
     position: fixed;
     top: 0;
@@ -64,9 +76,8 @@ body{
 
 .home{
     height: 100vh;
-    background: url('home.jpg') no-repeat;
-    background-size: cover;
-    background-position: center;
+    background: #081b29;
+    background-position: right;
     display: flex;
     align-items: center;
     padding: 0 10%;
