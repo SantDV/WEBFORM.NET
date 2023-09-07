@@ -192,7 +192,7 @@ body{
     background: #081b29;
     opacity: .8;
 }
-/*-------------------------------------------------------------------------*/
+
 
 
 .education-page{
@@ -213,7 +213,7 @@ body{
 
 .education-background{
     position: absolute;
-    background: url('education-background.png') no-repeat;
+    background: url('img/education-background.png') no-repeat;
     background-size: contain;
     width: 100%;
     height: 100vh;
@@ -258,12 +258,9 @@ body{
 
 
 
-
-/*-------------------------------------------------------------------------*/
-
 .portfolio-background{
     position: absolute;
-    background: url('portfolio-background.webp') no-repeat;
+    background: url('img/portfolio-background.webp') no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -357,7 +354,7 @@ form button{
 
 .background{
     position: absolute;
-    background: url('email.jpg');
+    background: url('img/email.jpg');
     width: 100%;
     height: 100vh;
     opacity: 5%;
