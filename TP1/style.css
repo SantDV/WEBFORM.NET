@@ -10,18 +10,6 @@ body{
     color: #ededed;
 }
 
-
-.box-photo{
-    position: absolute;
-    width: 35%;
-    height: 70vh;
-    left: 50%;
-    top: 20vh;
-    border: 2px solid white;
-    background: url('DSC_0592.JPG');
-    background-size: cover;
-}
-
 .header{
     position: fixed;
     top: 0;
@@ -34,7 +22,6 @@ body{
     align-items: center;
     z-index: 100;
 }
-
 
 .logo{
 
@@ -81,6 +68,8 @@ body{
     display: flex;
     align-items: center;
     padding: 0 10%;
+    flex-wrap: wrap;
+    width: 100%;
 }
 .home-content{
     max-width: 600px;
@@ -98,8 +87,11 @@ body{
 }
 
 .home-content p{
-    font-size: 16px;
+    font-size: 18px;
     margin: 20px 0 40px;
+    letter-spacing: 1.5px;
+    line-height: 25px;
+    word-spacing: 1px;
 }
 
 .home-content .btn-box{
@@ -162,6 +154,14 @@ body{
     padding:5px;
 }
 
+.box-photo{
+    position: absolute;
+    width: 600px;
+    height: 550px;
+    left: 50%;
+    top: 20vh;
+}
+
 #facebook:hover{
     transform: scale(1.2);
     border: 4px solid #fff;
@@ -207,24 +207,9 @@ body{
 }
 
 
-.box-container h3{
-    font-size: 1.2em;
-    font-family: 'Poppins', sans-serif;
-    color: #3f3f3f;
-    font-size: 18px;
-    transition: .3s;
-    
-}
 
-.box-container h3:hover{
-    font-size: 1.2em;
-    font-family: 'Poppins', sans-serif;
-    color: #000;
-    font-size: 18px;
-    cursor: pointer;
-    transform: scale(1.1);
 
-}
+
 
 .education-background{
     position: absolute;
@@ -249,6 +234,21 @@ body{
     background: #ffff;
     border-radius: 2%;
     opacity: 70%;
+}
+
+.box-container h3{
+    font-size: 1.4em;
+    font-family: 'Poppins', sans-serif;
+    color: #3f3f3f;
+    transition: .3s;
+    margin: 20px 0;
+}
+
+.box-container h3:hover{
+    color: #000;
+    cursor: pointer;
+    transform: scale(1.1);
+
 }
 
 .box-container:hover{
