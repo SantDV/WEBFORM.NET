@@ -1,0 +1,31 @@
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_1_UI.exe.config
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_1_UI.exe
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_1_UI.pdb
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2U2_2_BLL.dll
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_3_DAL.dll
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2U2_2_BLL.pdb
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_3_DAL.pdb
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.Form1.resources
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.Properties.Resources.resources
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.CopyComplete
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.exe
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.pdb
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_1_UI.exe.config
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_1_UI.exe
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_1_UI.pdb
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2U2_2_BLL.dll
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_3_DAL.dll
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2U2_2_BLL.pdb
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\bin\Debug\NET2_U2_3_DAL.pdb
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.Form1.resources
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.Properties.Resources.resources
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.GenerateResource.cache
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.csproj.CopyComplete
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.exe
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_1_UI\obj\Debug\NET2_U2_1_UI.pdb

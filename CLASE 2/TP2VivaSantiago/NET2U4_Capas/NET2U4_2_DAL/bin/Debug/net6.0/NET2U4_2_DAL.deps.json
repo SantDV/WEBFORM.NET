@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NET2U4_2_DAL/1.0.0": {
+        "runtime": {
+          "NET2U4_2_DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NET2U4_2_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

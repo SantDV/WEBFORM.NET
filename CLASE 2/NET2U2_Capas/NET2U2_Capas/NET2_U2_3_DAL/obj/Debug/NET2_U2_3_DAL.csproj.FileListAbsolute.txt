@@ -1,0 +1,12 @@
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_3_DAL\bin\Debug\NET2_U2_3_DAL.dll
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_3_DAL\bin\Debug\NET2_U2_3_DAL.pdb
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.dll
+C:\Users\Max\source\repos\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.pdb
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_3_DAL\bin\Debug\NET2_U2_3_DAL.dll
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_3_DAL\bin\Debug\NET2_U2_3_DAL.pdb
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.dll
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 2\NET2U2_Capas\NET2U2_Capas\NET2_U2_3_DAL\obj\Debug\NET2_U2_3_DAL.pdb

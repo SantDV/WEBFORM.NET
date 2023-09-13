@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NET2U4_1_UI/1.0.0": {
+        "dependencies": {
+          "NET2U4_3_BLL": "1.0.0"
+        },
+        "runtime": {
+          "NET2U4_1_UI.dll": {}
+        }
+      },
+      "NET2U4_2_DAL/1.0.0": {
+        "runtime": {
+          "NET2U4_2_DAL.dll": {}
+        }
+      },
+      "NET2U4_3_BLL/1.0.0": {
+        "dependencies": {
+          "NET2U4_2_DAL": "1.0.0"
+        },
+        "runtime": {
+          "NET2U4_3_BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NET2U4_1_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NET2U4_2_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NET2U4_3_BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
