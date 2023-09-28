@@ -7,7 +7,6 @@ C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\obj\Debu
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\CAPA_DAL.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\CAPA_DAL.pdb
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\obj\Debug\CAPA_BLL.csproj.CopyComplete
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\DataBase.db
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\System.Data.SQLite.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\CAPA_DAL.dll.config
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\System.Data.SQLite.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_BLL\bin\Debug\System.Data.SQLite.xml

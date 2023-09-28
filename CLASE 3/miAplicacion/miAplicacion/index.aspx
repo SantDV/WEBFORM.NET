@@ -26,6 +26,9 @@
         <asp:ListBox ID="lstBCarrito" runat="server" Width="232px"></asp:ListBox>
         <br />
         <asp:Button ID="btnComprar" runat="server" Text="Button" OnClick="btnComprar_Click" />
+        <br />
+        
+        <asp:Label ID="lblConfirm" runat="server"></asp:Label>
 
         
     </form>

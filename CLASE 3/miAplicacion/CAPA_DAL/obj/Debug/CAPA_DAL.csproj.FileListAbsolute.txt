@@ -7,11 +7,10 @@ C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\obj\Debu
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\CAPA_DAL.dll.config
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\EntityFramework.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\EntityFramework.xml
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\obj\Debug\CAPA_DAL.csproj.CopyComplete
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\System.Data.SQLite.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\System.Data.SQLite.EF6.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\System.Data.SQLite.Linq.dll
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\EntityFramework.xml
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\System.Data.SQLite.xml
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\obj\Debug\CAPA_DAL.csproj.CopyComplete
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\CAPA_DAL\bin\Debug\DataBase.db

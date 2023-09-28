@@ -8,21 +8,14 @@ using CAPA_DAL;
 
 namespace CAPA_BLL
 {
-    internal class ListaCompra
+    public class ListaCompra
     {
 
-        public bool AgregarCompra(int id, DataTable compra)
+        public bool Compra(DataTable dt)
         {
             BaseDeDatos baseDeDatos = new BaseDeDatos();
 
-            if (compra == null)
-            {
-                return baseDeDatos.GuardarCompra(id, compra);
-            }
-            else
-            {
-                return false;
-            }
+            return baseDeDatos.GuardarCompra(dt);
         }
 
     }

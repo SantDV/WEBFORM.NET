@@ -75,9 +75,8 @@ C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\obj\
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\obj\Debug\CAPA_UI.csproj.CopyComplete
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\obj\Debug\miAplicacion.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\obj\Debug\miAplicacion.pdb
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\DataBase.db
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\CAPA_DAL.dll
-C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\System.Data.SQLite.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\CAPA_DAL.pdb
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\CAPA_DAL.dll.config
+C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\System.Data.SQLite.dll
 C:\Users\SANTIAGO\Desktop\CURSO .NET FORM\CLASE 3\miAplicacion\miAplicacion\bin\System.Data.SQLite.xml
